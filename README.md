@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
-## 📌 프로젝트 진행기간: '23.06~'23.07
+## 📌 프로젝트 진행기간: '23.05~'23.06
 ## 📌 프로젝트 개요
 
 음성 데이터는 시간 도메인의 진폭(Amplitude) 배열로 표현됩니다.  
