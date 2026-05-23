@@ -1,7 +1,7 @@
 # 🎵 Music Genre Classification & Recommendation
 
 > **Librosa**로 오디오 특성을 추출하고, **XGBoost**로 음악 장르를 분류하며,  
-> **Cosine Similarity**로 유사한 음악을 추천하는 ML 프로젝트입니다.
+> **Cosine Similarity**로 유사한 음악을 추천하는 머신러닝 프로젝트입니다.
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Librosa](https://img.shields.io/badge/Librosa-0.10+-orange.svg)](https://librosa.org/)
@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
-
+## 📌 프로젝트 진행기간: '23.06~'23.07
 ## 📌 프로젝트 개요
 
 음성 데이터는 시간 도메인의 진폭(Amplitude) 배열로 표현됩니다.  
