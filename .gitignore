@@ -1,0 +1,41 @@
+# Data (용량이 크므로 제외)
+Data/
+*.zip
+*.csv.gz
+
+# 학습된 모델
+models/
+*.pkl
+*.joblib
+*.xgb
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# 환경
+.env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kaggle API 키 (절대 커밋하지 마세요!)
+kaggle.json
