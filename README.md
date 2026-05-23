@@ -186,7 +186,6 @@ print(rec.recommend('jazz.00010.wav', n=5))
 ## 📚 참고 자료
 
 - [빵형의 개발도상국 — 음악 장르 분류](https://www.youtube.com/watch?v=IE6lue0qusQ)
-- [카카오 기술블로그 — AI에게 어떻게 음성을 가르칠까?](https://tech.kakaoenterprise.com/66)
 - [Librosa Documentation](https://librosa.org/doc/latest/)
 - [GTZAN Dataset on Kaggle](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
 
@@ -194,4 +193,4 @@ print(rec.recommend('jazz.00010.wav', n=5))
 
 ## 📝 License
 
-MIT License — 자유롭게 사용하세요.
+MIT License
